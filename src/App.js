@@ -8,11 +8,7 @@ function App() {
   return (
     <div className="container">
       <div className="row  col-md-6 offset-md-3  justify-content-center">
-
         <Counter />
-
-
-
       </div>
     </div>
   );
